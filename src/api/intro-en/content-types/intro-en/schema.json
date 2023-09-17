@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "intro_ens",
+  "info": {
+    "singularName": "intro-en",
+    "pluralName": "intro-ens",
+    "displayName": "Intro(en)"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    }
+  }
+}
