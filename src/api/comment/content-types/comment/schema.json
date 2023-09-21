@@ -4,7 +4,8 @@
   "info": {
     "singularName": "comment",
     "pluralName": "comments",
-    "displayName": "comment"
+    "displayName": "comment",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -19,6 +20,10 @@
     },
     "contactInfo": {
       "type": "string"
+    },
+    "addToPost": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
