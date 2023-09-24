@@ -21,7 +21,7 @@
     "contactInfo": {
       "type": "string"
     },
-    "addToPost": {
+    "isPublic": {
       "type": "boolean",
       "default": false
     }
